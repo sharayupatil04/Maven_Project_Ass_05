@@ -1,13 +1,12 @@
 <html>
-<body>
-<h2>Welcome to Cummins College..</h2>
-<h1>pune</h1>
-<h3>Welcome</h3>
-<h3>Welcome pune</h3>
-<h2>Cummins College is the first all-women engineering college in India established in 1991 with the support of the Cummins Diesel (India) Foundation. The parent institution of Cummins College is Maharshi Karve Stree Shikshan Samstha (MKSSS). </h2>
-<h3>Engineering</h3>
-
-<h3>IT</h3>
-
-</body>
+    <head>
+        <title>
+            Maven-Project
+        </title>
+    </head>
+    <body style="background-color:powderblue;">
+        <h2 style="text-align: center;">Succesfully deployed Maven Project on Tomcat Server using Jenkins</h2>
+        <p style="text-align: right;">By - Sharayu Ravindra Patil</p>
+        <p style="text-align: right;">C22021442601</p>
+    </body>
 </html>
